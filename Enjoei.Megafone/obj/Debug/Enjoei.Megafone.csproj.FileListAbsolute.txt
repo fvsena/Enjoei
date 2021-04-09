@@ -1,0 +1,13 @@
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Enjoei.Megafone.exe.config
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Enjoei.Megafone.exe
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Enjoei.Megafone.pdb
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\WebDriver.dll
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\WebDriver.xml
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\obj\Debug\Enjoei.Megafone.csproj.CoreCompileInputs.cache
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\obj\Debug\Enjoei.Megafone.csproj.CopyComplete
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\obj\Debug\Enjoei.Megafone.exe
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\obj\Debug\Enjoei.Megafone.pdb
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\bin\Debug\Arquivos\chromedriver.exe
+C:\Users\fvsen\source\repos\Enjoei\Enjoei.Megafone\obj\Debug\Enjoei.Megafone.csprojAssemblyReference.cache
